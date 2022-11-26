@@ -25,10 +25,10 @@
     "Cmp": "Compression: ",
 
 	"Folder2scLabel": "Folder 2 sc",
-    "scToIconsFolder": "Folder2iconsSC",
+    "scToIconsFolder": "Folder 2 icons SC",
     "scToIconsFolder_description": "Convert png files in folder into sc",
 	"InputFoldderName": "Input folder name: ",
-	"Merge": "Merge with other sc? : ",
+	"Merge": "Merge with other sc?: ",
 	"InputFileName": "Input file name: ",
 	"Sc2json": "SC2Json",
 	"Sc2json_description": "Converts sc to json",
