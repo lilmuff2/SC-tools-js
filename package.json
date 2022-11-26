@@ -7,12 +7,10 @@
     "prepublish": "npm install -g typescript && npm run build && node install.js",
     "build": "tsc -p ./"
   },
-  "author": "DaniilSV",
+  "author": "Lilmuff1",
   "license": "MIT",
   "files": [
-    "lib",
-    "src",
-    ""
+    "lib"
   ],
   "dependencies": {
     "image-js": "^0.35.2",
