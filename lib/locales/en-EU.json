@@ -18,6 +18,11 @@
     "SCLabel": "SC",
     "ScMerge": "SC Merge",
     "ScMerge_description": "Merge 2 sc in to 1 , delete same exports",
+    "ScDecCmp": "SC dec/cmp",
+    "ScDecCmp_description": "Decompress or Compress(if sc is decompressed) SC",
+    "Decmpr": "Decompressing ...",
+    "Cmpr": "Compressing ...",
+    "Cmp": "Compression: ",
 
 	"Folder2scLabel": "Folder 2 sc",
     "scToIconsFolder": "Folder2iconsSC",
