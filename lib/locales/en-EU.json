@@ -1,0 +1,51 @@
+{
+    "xcoderHeader": "Sc tools | Version: %s | by lilmuff1",
+    "choice": "Your choice: ",
+    "done": "Completed in %s seconds!\n",
+    "toContinue": "Press Enter to continue...",
+
+    "TexLabel": "TEX",
+    "scToTexture": "Decode  texture",
+    "scToTexture_description": "Decodes texture file into png files",
+    "textureToSc": "Encode texture",
+    "textureToSc_description": "Encodes png files to file",
+    "textureop": "Tex Optimization",
+    "textureop_description": "Reduces file size",
+    "texturechange": "Tex Name Change",
+    "texturechange_description": "Change tex postfix",
+	"InputPostfix": "Input Postfix: ",
+
+    "SCLabel": "SC",
+    "ScMerge": "SC Merge",
+    "ScMerge_description": "Merge 2 sc in to 1 , delete same exports",
+
+	"Folder2scLabel": "Folder 2 sc",
+    "scToIconsFolder": "Folder2iconsSC",
+    "scToIconsFolder_description": "Convert png files in folder into sc",
+	"InputFoldderName": "Input folder name: ",
+	"Merge": "Merge with other sc? : ",
+	"InputFileName": "Input file name: ",
+	"Sc2json": "SC2Json",
+	"Sc2json_description": "Converts sc to json",
+    "Json2Sc": "Json2Sc",
+	"Json2Sc_description": "Converts json to sc",
+    "LoadingTook":"Loading took %s seconds!\n",
+    "LoadingJson":"Converting to json took %s seconds!\n",
+    "LoadingSc":"Converting to sc took %s seconds!\n",
+
+    "otherFeaturesLable": "OTHER",
+    "changeLanguage": "Select another language",
+    "clearDirs": "Recreate workspace dirs",
+    "exit": "Exit",
+    "changeLanguage_description": "Current lang: %s",
+    "clearDirs_description": "Cleans and recreates workspace dirs",
+
+    "aboutTexture": "[%s%] Index: %s, Pixel type: %s, Size: %sx%s",
+    "illegalSize": "Illegal image size! Expected %sx%s but we got %sx%s",
+    "resize_qu": "Would you like to resize an image?",
+    "nofile": "\u001B[31mNo such File or Folder (%s)\u001B[0m",
+    "fileLoading": "\nLoading %s...",
+    "fileSaving": "\nSaving %s...",
+
+    "imageSaving": "\nSaving to png..."
+}
