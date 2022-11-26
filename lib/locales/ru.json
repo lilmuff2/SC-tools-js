@@ -34,9 +34,9 @@
 	"Sc2json_description": "Конвертирует sc в json",
     "Json2Sc": "Json2Sc",
 	"Json2Sc_description": "Конвертирует json в sc",
-    "LoadingTook":"Загрузка заняла %s секунд!\n",
-    "LoadingJson":"Конверт в json занял  %s секунд!\n",
-    "LoadingSc":"Конверт в sc занял %s секунд!\n",
+    "LoadingTook":"Загрузка заняла %s секунд(ы)!\n",
+    "LoadingJson":"Конверт в json занял  %s секунд(ы)!\n",
+    "LoadingSc":"Конверт в sc занял %s секунд(ы)!\n",
 
     "otherFeaturesLable": "Другое",
     "changeLanguage": "Выбрать другой язык",
