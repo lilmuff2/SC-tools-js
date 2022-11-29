@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start":"nodemon index.js",
     "prepublish": "npm install -g typescript && npm run build && node install.js",
     "build": "tsc -p ./"
   },

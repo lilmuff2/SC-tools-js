@@ -18,6 +18,15 @@
     "SCLabel": "SC",
     "ScMerge": "SC Merge",
     "ScMerge_description": "Merge 2 sc in to 1 , delete same exports",
+
+    "ScExport" : "Get Exports",
+    "ScExport_description" : "Get exports from 1 sc and save in to 2 sc",
+    "InputExportName": "Input expot name: ",
+    "AddedMC": " \u001B[32m(Move Clip) Added to SC\u001B[0m",
+    "AddedSh": " \u001B[32m(Shape) Added to SC\u001B[0m",
+    "AddedTx": " \u001B[32m(Text Field) Added to SC\u001B[0m",
+    "AddedMCm": " \u001B[32m(Movie Clip Modifier) Added to SC\u001B[0m",
+
     "ScDecCmp": "SC dec/cmp",
     "ScDecCmp_description": "Decompress or Compress(if sc is decompressed) SC",
     "Decmpr": "Decompressing ...",
@@ -43,6 +52,8 @@
     "clearDirs": "Recreate workspace dirs",
     "exit": "Exit",
     "changeLanguage_description": "Current lang: %s",
+    "changeCompression": "Select another Compression",
+    "changeCompression_description": "Current Compression: ",
     "clearDirs_description": "Cleans and recreates workspace dirs",
 
     "aboutTexture": "[%s%] Index: %s, Pixel type: %s, Size: %sx%s",
